@@ -25,7 +25,7 @@
         "composer/xdebug-handler": "^1.0",
         "felixfbecker/advanced-json-rpc": "^3.0.0",
         "felixfbecker/language-server-protocol": "^1.0.1",
-        "jetbrains/phpstorm-stubs": "0.0.*",
+        "jetbrains/phpstorm-stubs": "dev-revert-632-json_encode_decode_throws_exception",
         "microsoft/tolerant-php-parser": "0.0.*",
         "netresearch/jsonmapper": "^1.0",
         "phpdocumentor/reflection-docblock": "^4.0.0",
